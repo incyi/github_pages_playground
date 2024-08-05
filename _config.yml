@@ -1,10 +1,11 @@
-title: incyi's playground homepage
+title: Playground homepage INCYI
 description: playground
 theme: jekyll-theme-architect
 google_analytics: []
 url: 'https://incyi.github.io'
 github_username: incyi
 github: [metadata]
-show_downloads: false
+show_downloads: true
 plugins:
   - jekyll-sitemap
+  - jemoji
