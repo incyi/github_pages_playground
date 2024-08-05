@@ -9,3 +9,4 @@ show_downloads: true
 plugins:
   - jekyll-sitemap
   - jemoji
+  - jekyll-mermaid
