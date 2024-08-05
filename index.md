@@ -50,18 +50,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # Flowchart Example
 
-{% mermaid %}
+```mermaid
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
-{% endmermaid %}
 
 ### 3. **Math Equations**
 Use LaTeX for mathematical equations.
 
 ```markdown
+
 # Mathematical Equation
 
 Here is an inline equation: \( E = mc^2 \).
