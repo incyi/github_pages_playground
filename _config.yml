@@ -1,0 +1,10 @@
+title: incyi's playground homepage
+description: playground
+theme: jekyll-theme-architect
+google_analytics: []
+url: 'https://incyi.github.io'
+github_username: incyi
+github: [metadata]
+show_downloads: false
+plugins:
+  - jekyll-sitemap
