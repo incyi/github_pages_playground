@@ -71,6 +71,7 @@ And a block equation:
 $$
 \int_{a}^{b} f(x)dx
 $$
+
 # Embedded Gist
 
 Check out this code snippet:
