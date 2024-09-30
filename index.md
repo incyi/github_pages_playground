@@ -207,8 +207,8 @@ Check out this code snippet:
 
 People
 
-| :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
+| | :smile: `:smile:` | :laughing: `:laughing:` |
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
 | :smirk: `:smirk:` | :heart_eyes: `:heart_eyes:` | :kissing_heart: `:kissing_heart:` |
 | :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` |
@@ -223,7 +223,7 @@ People
 | :disappointed: `:disappointed:` | :confounded: `:confounded:` | :fearful: `:fearful:` |
 | :cold_sweat: `:cold_sweat:` | :persevere: `:persevere:` | :cry: `:cry:` |
 | :sob: `:sob:` | :joy: `:joy:` | :astonished: `:astonished:` |
-| :scream: `:scream:` | :neckbeard: `:neckbeard:` | :tired_face: `:tired_face:` |
+| :scream: `:scream:` | | :tired_face: `:tired_face:` |
 | :angry: `:angry:` | :rage: `:rage:` | :triumph: `:triumph:` |
 | :sleepy: `:sleepy:` | :yum: `:yum:` | :mask: `:mask:` |
 | :sunglasses: `:sunglasses:` | :dizzy_face: `:dizzy_face:` | :imp: `:imp:` |
@@ -257,7 +257,7 @@ People
 | :haircut: `:haircut:` | :nail_care: `:nail_care:` | :boy: `:boy:` |
 | :girl: `:girl:` | :woman: `:woman:` | :man: `:man:` |
 | :baby: `:baby:` | :older_woman: `:older_woman:` | :older_man: `:older_man:` |
-| :person_with_blond_hair: `:person_with_blond_hair:` | :man_with_gua_pi_mao: `:man_with_gua_pi_mao:` | :man_with_turban: `:man_with_turban:` |
+| | :man_with_gua_pi_mao: `:man_with_gua_pi_mao:` | :man_with_turban: `:man_with_turban:` |
 | :construction_worker: `:construction_worker:` | :cop: `:cop:` | :angel: `:angel:` |
 | :princess: `:princess:` | :smiley_cat: `:smiley_cat:` | :smile_cat: `:smile_cat:` |
 | :heart_eyes_cat: `:heart_eyes_cat:` | :kissing_cat: `:kissing_cat:` | :smirk_cat: `:smirk_cat:` |
@@ -269,10 +269,6 @@ People
 | :ear: `:ear:` | :eyes: `:eyes:` | :nose: `:nose:` |
 | :tongue: `:tongue:` | :love_letter: `:love_letter:` | :bust_in_silhouette: `:bust_in_silhouette:` |
 | :busts_in_silhouette: `:busts_in_silhouette:` | :speech_balloon: `:speech_balloon:` | :thought_balloon: `:thought_balloon:` |
-| :feelsgood: `:feelsgood:` | :finnadie: `:finnadie:` | :goberserk: `:goberserk:` |
-| :godmode: `:godmode:` | :hurtrealbad: `:hurtrealbad:` | :rage1: `:rage1:` |
-| :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
-| :suspect: `:suspect:` | :trollface: `:trollface:` | 
 
 Nature
 
@@ -314,8 +310,8 @@ Nature
 | :last_quarter_moon: `:last_quarter_moon:` | :waning_crescent_moon: `:waning_crescent_moon:` | :last_quarter_moon_with_face: `:last_quarter_moon_with_face:` |
 | :first_quarter_moon_with_face: `:first_quarter_moon_with_face:` | :moon: `:moon:` | :earth_africa: `:earth_africa:` |
 | :earth_americas: `:earth_americas:` | :earth_asia: `:earth_asia:` | :volcano: `:volcano:` |
-| :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
-| :squirrel: `:squirrel:` |
+| :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | |
+| |
 
 Objects
 
@@ -515,11 +511,11 @@ Symbols
 | :black_circle: `:black_circle:` | :white_circle: `:white_circle:` | :red_circle: `:red_circle:` |
 | :large_blue_circle: `:large_blue_circle:` | :large_blue_diamond: `:large_blue_diamond:` | :large_orange_diamond: `:large_orange_diamond:` |
 | :small_blue_diamond: `:small_blue_diamond:` | :small_orange_diamond: `:small_orange_diamond:` | :small_red_triangle: `:small_red_triangle:` |
-| :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
+| :small_red_triangle_down: `:small_red_triangle_down:` | |
 
 # Badges
 
-![Build Status](https://img.shields.io/github/workflow/status/username/repo/CI)
+[![pages-build-deployment](https://github.com/incyi/github_pages_playground/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/incyi/github_pages_playground/actions/workflows/pages/pages-build-deployment)
 ![License](https://img.shields.io/github/license/username/repo)
 
 # Footnotes
